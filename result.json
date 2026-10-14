@@ -1,0 +1,18 @@
+{
+  "outputs": [
+    {
+      "path": "artifacts/image.png",
+      "format": "png",
+      "mimeType": "image/png",
+      "width": 1152,
+      "height": 896,
+      "bytes": 1555093
+    }
+  ],
+  "review": {
+    "steps": ["Visual inspection with view_image", "File inspection with mcp__image__image_info"],
+    "unmetVisualRequirements": [],
+    "limitations": ["Some secondary sign lettering is imperfect."],
+    "independentlyCertified": false
+  }
+}
